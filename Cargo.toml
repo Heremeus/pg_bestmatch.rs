@@ -29,6 +29,3 @@ tokenizers = { version = "0.19.1", default-features = false, features = [
     "http",
     "onig",
 ] }
-
-[patch.crates-io]
-pgrx = { version = "0.12.7" }
